@@ -38,4 +38,4 @@ Configuration for my powershell prompt
    Install-Module Terminal-Icons -Scope CurrentUser
    Install-Module PSReadLine -Force
    ```
-6. Copy the contents of [`myProfile.ps1`]() to the local PowerShell profile file.
+6. Copy the contents of [`myProfile.ps1`](https://github.com/davidbossanyi/powershell-profile/blob/main/myProfile.ps1) to the local PowerShell profile file.
