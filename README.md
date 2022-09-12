@@ -4,6 +4,7 @@ Configuration for my powershell prompt
 ### Prerequisites
  - [chocolatey](https://chocolatey.org/)
  - [Windows Terminal](https://github.com/microsoft/terminal)
+ - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about)
 
 ### Instructions
 
