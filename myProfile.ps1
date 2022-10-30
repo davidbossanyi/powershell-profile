@@ -1,3 +1,6 @@
+# get poetry colours to appear
+$env:TERM="xterm"
+
 # function to activate a poetry virtualenv
 function Activate-Poetry {
 	. "$(poetry env info --path)\Scripts\activate.ps1"
